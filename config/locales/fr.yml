@@ -1690,10 +1690,10 @@ fr:
         total_refunded: Valeur totale des crédits
         thanks: Merci beaucoup
         store_team: Équipe '%{store_name}'
-    reimbursement_perform_failed:
-    reimbursement_status:
-    reimbursement_type:
-    reimbursement_type_override:
+    reimbursement_perform_failed: Le remboursement a échoué
+    reimbursement_status: Statut de remboursement
+    reimbursement_type: Type de remboursement
+    reimbursement_type_override: Outrepassement du type de remboursement
     reimbursement_types: Types de remboursement
     reimbursements: Remboursements
     reject:
@@ -1702,7 +1702,7 @@ fr:
     remove: Supprimer
     remove_image: Supprimer l'image
     rename: Renommer
-    report:
+    report: Statistique
     reports: Statistiques
     required: '*'
     required_fields: Champs obligatoires
@@ -1758,8 +1758,8 @@ fr:
     secure_connection_type: Type de connexion sécurisée
     security_settings: Paramètres de sécurité
     select: Sélectionner
-    select_a_return_authorization_reason:
-    select_a_stock_location:
+    select_a_return_authorization_reason: Sélectionner une raison de retour d'autorisation
+    select_a_stock_location: Sélectionner un emplacement de stock
     select_a_store_credit_reason: Choisissez une raison pour recevoir un crédit
     select_from_prototype: Sélectionner d'après le prototype
     select_stock: Sélectionner le stock
@@ -2047,7 +2047,7 @@ fr:
     type_to_search: Type à rechercher
     twitter: Twitter
     unable_to_connect_to_gateway: N'arrive pas à se connecter à la méthode de paiement.
-    unable_to_create_reimbursements:
+    unable_to_create_reimbursements: N'arrive pas à créer de remboursement
     under_price: Moins de %{price}
     unlock: Déverrouiller
     unrecognized_card_type: Le type de la carte n'est pas reconnu
