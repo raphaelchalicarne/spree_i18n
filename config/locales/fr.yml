@@ -1557,8 +1557,8 @@ fr:
       type: ART
     populate_get_error: Quelque chose s'est passé mal. Essayez S'il vous plaît d'ajouter l'article de nouveau.
     powered_by: Réalisé avec
-    pre_tax_amount: Sous-total de la taxe sur les intrants
-    pre_tax_refund_amount: Crédit de taxe sur les intrants
+    pre_tax_amount: Montant pré-taxe
+    pre_tax_refund_amount: Montant crédité pré-taxe
     pre_tax_total: Total de la taxe en amont
     preferred_reimbursement_type: Type de rémunération préféré
     presentation: Présentation
@@ -1618,7 +1618,7 @@ fr:
         description: Doit être la première commande de l'utilisateur
         name: Première commande
       item_total:
-        description: Le total de la commande réponds aux critaires suivants
+        description: Le total de la commande réponds aux critères suivants
         name: Total de la commande
       landing_page:
         description: Le client doit avoir visité la page spécifiée
@@ -2031,7 +2031,7 @@ fr:
     total: Total
     total_per_item:
     total_pre_tax_refund:
-    total_price:
+    total_price: Prix total
     total_sales: Somme des ventes
     track_inventory:
     tracking: Localiser
