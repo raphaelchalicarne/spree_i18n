@@ -561,7 +561,7 @@ fr:
         one: Zone
         other: Zones
   address_book:
-    save: Sauver
+    save: Enregistrer
     successfully_created: Créé avec succès
   devise:
     confirmations:
@@ -1090,8 +1090,8 @@ fr:
       count_on_hand_setter: Impossible de définir count_on_hand manuellement, tel qu'il est défini automatiquement par le rappel de recalculate_count_on_hand. S'il vous plaît utilisez `update_column (:count_on_hand, value)` à la place.
     exchange_for: Échange pour
     excl: exclu.
-    existing_shipments:
-    expedited_exchanges_warning:
+    existing_shipments: Expéditions existantes
+    expedited_exchanges_warning: "Tout échange spécifié sera signalé au client immédiatement après l'enregistrement. Le client devra payer le montant total de l'article si l'article d'origine n'est pas retourné dans les %{days_window} jours."
     expiration: Expiration
     expiration_date: Date d'expiration
     extension: Prolongation
@@ -1181,8 +1181,8 @@ fr:
     identifier: Identification
     image: Image
     images: Images
-    implement_eligible_for_return:
-    implement_requires_manual_intervention:
+    implement_eligible_for_return: Outil éligible au retour
+    implement_requires_manual_intervention: Outil nécessite une intervention manuelle
     in_stock: En stock
     inactive: Inactif
     incl: inclus
